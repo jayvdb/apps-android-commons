@@ -58,7 +58,6 @@
   <string name="about_improve">קוד מקור ב־&lt;a href=\"https://github.com/wikimedia/apps-android-commons\"&gt;GitHub&lt;/a&gt;. דיווחי באגים ב&lt;a href=\"https://github.com/nicolas-raoul/apps-android-commons/issues\"&gt;באגזילה&lt;/a&gt;.</string>
   <string name="about_privacy_policy"/>
   <string name="title_activity_about">אודות</string>
-  <string name="menu_feedback">שליחת משוב (בדוא\"ל)</string>
   <string name="provider_categories">קטגוריות בשימוש לאחרונה</string>
   <string name="waiting_first_sync">מחכה לסנכרון הראשון...</string>
   <string name="no_uploads_yet">עדיין לא העלית תמונות.</string>

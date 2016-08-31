@@ -71,7 +71,6 @@
   <string name="about_improve">原始碼位於&lt;a href=\"https://github.com/wikimedia/android-commons\"&gt;GitHub&lt;/a&gt;。報告錯誤於&lt;a href=\"https://github.com/nicolas-raoul/apps-android-commons/issues\"&gt;Github&lt;/a&gt;。</string>
   <string name="about_privacy_policy">&lt;a href=\"http://wikimediafoundation.org/wiki/Privacy_policy\"&gt;私隱政策&lt;/a&gt;</string>
   <string name="title_activity_about">關於</string>
-  <string name="menu_feedback">傳送回饋 （通過電子郵件）</string>
   <string name="provider_categories">最近使用過的分類</string>
   <string name="waiting_first_sync">等待首次同步…</string>
   <string name="no_uploads_yet">你尚未上傳任何照片。</string>

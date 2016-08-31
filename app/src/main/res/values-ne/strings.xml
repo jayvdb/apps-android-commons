@@ -57,7 +57,6 @@
   <string name="about_improve">&lt;a href=\"https://github.com/wikimedia/apps-android-commons\"&gt;गिटहब&lt;/a&gt; मा स्रोत। &lt;a href=\"https://github.com/nicolas-raoul/apps-android-commons/issues\"&gt;बगजिल्ला&lt;/a&gt; मा बग छ।</string>
   <string name="about_privacy_policy">&lt;a href=\"https://wikimediafoundation.org/wiki/Privacy_policy\"&gt;गोपनीयता नीति&lt;/a&gt;</string>
   <string name="title_activity_about">बारेमा</string>
-  <string name="menu_feedback">सुझाव पठाउने (इमेल मार्फत)</string>
   <string name="provider_categories">हालै प्रयोग भएका श्रेणीहरू</string>
   <string name="waiting_first_sync">पहिलो सिङ्कको लागि प्रतिक्षा गर्दै...</string>
   <string name="no_uploads_yet">तपाईँले हालसम्म कुनै पनि फोटो अपलोड गर्नुभएको छैन</string>

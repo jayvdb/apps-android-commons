@@ -55,7 +55,6 @@ Cyffyrddwch y neges hon (neu ddewis Nôl) i fynd i\'r cam nesaf.</string>
   <string name="about_improve">Y ffynhonell ar &lt;a href=\"https://github.com/wikimedia/apps-android-commons\"&gt;GitHub&lt;/a&gt;. Bygiau ar &lt;a href=\"https://github.com/nicolas-raoul/apps-android-commons/issues\"&gt;Github&lt;/a&gt;.</string>
   <string name="about_privacy_policy">&lt;a href=\"https://wikimediafoundation.org/wiki/Privacy_policy\"&gt;Polisi preifatrwydd&lt;/a&gt;</string>
   <string name="title_activity_about">Amdanom</string>
-  <string name="menu_feedback">Danfonwch Adborth (drwy Ebost)</string>
   <string name="provider_categories">Categorïau a ddefnyddiwyd yn ddiweddar</string>
   <string name="waiting_first_sync">Yn aros am y sync cyntaf...</string>
   <string name="no_uploads_yet">Nid ydych wedi uwchlwytho ffotograffau eto.</string>

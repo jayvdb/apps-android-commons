@@ -78,7 +78,6 @@
   <string name="about_improve">Исходный код на &lt;a href=\"https://github.com/wikimedia/apps-android-commons\"&gt;GitHub&lt;/a&gt;. Ошибки на &lt;a href=\"https://github.com/nicolas-raoul/apps-android-commons/issues\"&gt;Github&lt;/a&gt;.</string>
   <string name="about_privacy_policy">&lt;a href=\"https://wikimediafoundation.org/wiki/Privacy_policy/ru\"&gt;Политика конфиденциальности&lt;/a&gt;</string>
   <string name="title_activity_about">О приложении</string>
-  <string name="menu_feedback">Отправить отзыв (по эл. почте)</string>
   <string name="provider_categories">Недавно использованные категории</string>
   <string name="waiting_first_sync">Ожидание первой синхронизации...</string>
   <string name="no_uploads_yet">Вы еще не загрузили ни одной фотографии.</string>

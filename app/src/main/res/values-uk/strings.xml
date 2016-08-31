@@ -77,7 +77,6 @@
   <string name="about_improve">Код на &lt;a href=\"https://github.com/wikimedia/apps-android-commons\"&gt;GitHub&lt;/a&gt;. Помилки на a href=\"https://github.com/nicolas-raoul/apps-android-commons/issues\"&gt;Github&lt;/a&gt;.</string>
   <string name="about_privacy_policy">Wikimedia:Commons-android-strings-about privacy policy/uk</string>
   <string name="title_activity_about">Про програму</string>
-  <string name="menu_feedback">Надіслати відгук по електронній пошті</string>
   <string name="provider_categories">Недавно використані категорії</string>
   <string name="waiting_first_sync">В очікуванні першої синхронізації...</string>
   <string name="no_uploads_yet">Ви ще не завантажили жодної світлини.</string>

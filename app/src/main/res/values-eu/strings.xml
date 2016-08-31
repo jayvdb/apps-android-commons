@@ -54,7 +54,6 @@
   <string name="about_improve">Jatorria &lt;a href=\"https://github.com/wikimedia/apps-android-commons\"&gt;GitHub&lt;/a&gt;en. Akatsak &lt;a href=\"https://github.com/nicolas-raoul/apps-android-commons/issues\"&gt;Github&lt;/a&gt;n.</string>
   <string name="about_privacy_policy">&lt;a href=\"https://wikimediafoundation.org/wiki/Privacy_policy\"&gt;Pribatutasun politika&lt;/a&gt;</string>
   <string name="title_activity_about">Honi buruz</string>
-  <string name="menu_feedback">Bidali zure iritzia (e-posta bidez)</string>
   <string name="provider_categories">Berriki erabilitako kategoriak</string>
   <string name="waiting_first_sync">Itxoiten lehenengo sinkronizaziora...</string>
   <string name="no_uploads_yet">Oraindik ez duzu argazkirik igo.</string>

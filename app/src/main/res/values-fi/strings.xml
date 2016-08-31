@@ -57,7 +57,6 @@ Napauta tätä viestiä (tai paina takaisin) ohittaaksesi tämän vaiheen.</stri
   <string name="about_improve">Lähdekoodi saatavilla &lt;a href=\"https://github.com/wikimedia/apps-android-commons\"&gt;GitHubissa&lt;/a&gt;. Ohjelmavirheet &lt;a href=\"https://github.com/nicolas-raoul/apps-android-commons/issues\"&gt;Githubssa&lt;/a&gt;.</string>
   <string name="about_privacy_policy">&lt;a href=\"https://wikimediafoundation.org/wiki/Privacy_policy\"&gt;Yksityisyydensuoja&lt;/a&gt;</string>
   <string name="title_activity_about">Tietoja</string>
-  <string name="menu_feedback">Lähetä palautetta (sähköpostitse)</string>
   <string name="provider_categories">Äskettäin käytetyt luokat</string>
   <string name="waiting_first_sync">Odotetaan ensimmäistä synkronointia.</string>
   <string name="no_uploads_yet">Et ole vielä tallentanut kuvia.</string>

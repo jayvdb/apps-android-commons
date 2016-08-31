@@ -64,7 +64,6 @@ Chạm vào thông điệp này (hoặc bấm Quay lại) để bỏ qua bước
   <string name="about_improve">Mã nguồn có sẵn tại &lt;a href=\"https://github.com/wikimedia/apps-android-commons\"&gt;GitHub&lt;/a&gt;. Báo cáo lỗi tại &lt;a href=\"https://github.com/nicolas-raoul/apps-android-commons/issues\"&gt;Github&lt;/a&gt;.</string>
   <string name="about_privacy_policy"/>
   <string name="title_activity_about">Giới thiệu</string>
-  <string name="menu_feedback">Gửi Phản hồi (qua Thư điện tử)</string>
   <string name="provider_categories">Thể loại được sử dụng gần đây</string>
   <string name="waiting_first_sync">Đang chờ đồng bộ lần đầu tiên…</string>
   <string name="no_uploads_yet">Bạn chưa tải lên hình nào.</string>

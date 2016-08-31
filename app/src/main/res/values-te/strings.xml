@@ -56,7 +56,6 @@
   <string name="about_license">ఓపెన్ సోర్సు సాఫ్టువేరు &lt;a href=\"https://github.com/wikimedia/apps-android-commons/blob/master/COPYING\"&gt;Apache License v2&lt;/a&gt; కు లోబడి విడుదలైంది</string>
   <string name="about_privacy_policy">&lt;a href=\"https://wikimediafoundation.org/wiki/Privacy_policy\"&gt;గోప్యతా విధానం&lt;/a&gt;</string>
   <string name="title_activity_about">గురించి</string>
-  <string name="menu_feedback">ఫీడుబ్యాకును పంపండి (ఈమెయిలు ద్వారా)</string>
   <string name="provider_categories">ఇటీవల వాడిన వర్గాలు</string>
   <string name="no_uploads_yet">ఇంకా మీరు ఫోటోలేమీ ఎక్కించలేదు.</string>
   <string name="menu_retry_upload">మళ్ళీ ప్రయత్నించు</string>

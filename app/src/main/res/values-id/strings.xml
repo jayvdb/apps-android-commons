@@ -74,7 +74,6 @@ Tekan pesan ini (atau tekan kembali) untuk melewatkan langkah ini.</string>
   <string name="about_improve">Bersumber di &lt;a href=\"https://github.com/wikimedia/apps-android-commons\"&gt;GitHub&lt;/a&gt;. Bug di &lt;a href=\"https://github.com/nicolas-raoul/apps-android-commons/issues\"&gt;Github&lt;/a&gt;.</string>
   <string name="about_privacy_policy">&lt;a href=\"https://wikimediafoundation.org/wiki/Privacy_policy/id\"&gt;Kebijakan privasi&lt;/a&gt;</string>
   <string name="title_activity_about">Tentang</string>
-  <string name="menu_feedback">Kirim umpan balik (via Surel)</string>
   <string name="provider_categories">Kategori yang terakhir digunakan</string>
   <string name="waiting_first_sync">Menunggu sinkronisasi pertama...</string>
   <string name="no_uploads_yet">Anda belum mengunggah foto apapun.</string>

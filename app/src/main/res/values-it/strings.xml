@@ -71,7 +71,6 @@ Tocca questo messaggio (o premi Indietro) per saltare l\'aggiunta di categorie.<
   <string name="about_improve">Codice sorgente su &lt;a href=\"https://github.com/wikimedia/android-commons\"&gt;GitHub&lt;/a&gt;. Errori su &lt;a href=\"https://github.com/nicolas-raoul/apps-android-commons/issues\"&gt;Github&lt;/a&gt;.</string>
   <string name="about_privacy_policy">&lt;a href=\"https://wikimediafoundation.org/wiki/Privacy_policy\"&gt;Politica sulla privacy&lt;/a&gt;</string>
   <string name="title_activity_about">Informazioni</string>
-  <string name="menu_feedback">Invia un commento (tramite email)</string>
   <string name="provider_categories">Categorie utilizzate recentemente</string>
   <string name="waiting_first_sync">Attendi per la prima sincronizzazione...</string>
   <string name="no_uploads_yet">Non hai ancora caricato alcuna foto.</string>

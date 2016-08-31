@@ -56,7 +56,6 @@
   <string name="about_improve">ប្រភពកូដមាននៅ &lt;a href=\"https://github.com/wikimedia/apps-android-commons\"&gt;GitHub&lt;/a&gt;. Bugs មាននៅ &lt;a href=\"https://github.com/nicolas-raoul/apps-android-commons/issues\"&gt;Github&lt;/a&gt;.</string>
   <string name="about_privacy_policy">&lt;a href=\"https://wikimediafoundation.org/wiki/Privacy_policy\"&gt;គោលការភាពជាឯកជន&lt;/a&gt;</string>
   <string name="title_activity_about">អំពី</string>
-  <string name="menu_feedback">ផ្ញើមតិកែលម្អ (តាមអ៊ីមែល)</string>
   <string name="provider_categories">ចំណាត់ថ្នាក់ក្រុមដែលត្រូវបានប្រើថ្មីៗ</string>
   <string name="waiting_first_sync">កំពុងរង់ចាំ ធ្វើការ sync ជាលើកដំបូង...</string>
   <string name="no_uploads_yet">អ្នកមិនទាន់បានផ្ទុករូបថតណាមួយឡើងនៅឡើយទេ។</string>

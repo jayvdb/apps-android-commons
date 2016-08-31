@@ -57,7 +57,6 @@ Dotknij tej wiadomości (lub naciśnij \"cofnij\") aby pominąć ten krok</strin
   <string name="about_improve">Kod źródłowy na &lt;a href=\"https://github.com/wikimedia/apps-android-commons\"&gt;GitHub&lt;/a&gt;. Błędy - &lt;a href=\"https://github.com/nicolas-raoul/apps-android-commons/issues\"&gt;Github&lt;/a&gt;.</string>
   <string name="about_privacy_policy">Wikimedia:Commons-android-strings-about privacy policy/uk</string>
   <string name="title_activity_about">O aplikacji</string>
-  <string name="menu_feedback">Wyślij opinię (przez e-mail)</string>
   <string name="provider_categories">Niedawno używane Kategorie</string>
   <string name="waiting_first_sync">Oczekiwanie na pierwszą synchronizację ...</string>
   <string name="no_uploads_yet">Nie wgrałeś jeszcze żadnych zdjęć.</string>

@@ -67,7 +67,6 @@
   <string name="about_improve">소스 코드는 &lt;a href=\"https://github.com/wikimedia/apps-android-commons\"&gt;GitHub&lt;/a&gt;에 있으며, 버그는&lt;a href=\"https://github.com/nicolas-raoul/apps-android-commons/issues\"&gt;버그질라&lt;/a&gt;에 보고하세요.</string>
   <string name="about_privacy_policy">&lt;a href=\"https://wikimediafoundation.org/wiki/Privacy_policy/ko\"&gt;개인 정보 정책&lt;/a&gt;</string>
   <string name="title_activity_about">소개</string>
-  <string name="menu_feedback">(이메일로) 피드백 보내기</string>
   <string name="provider_categories">최근에 사용한 분류</string>
   <string name="waiting_first_sync">첫 동기화를 기다리는 중...</string>
   <string name="no_uploads_yet">아직 사진을 올리지 않았습니다.</string>

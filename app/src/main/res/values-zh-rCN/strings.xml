@@ -74,7 +74,6 @@
   <string name="about_improve">源代码位于&lt;a href=\"https://github.com/wikimedia/android-commons\"&gt;GitHub&lt;/a&gt;。在&lt;a href=\"https://github.com/nicolas-raoul/apps-android-commons/issues\"&gt;Github&lt;/a&gt;报告错误。</string>
   <string name="about_privacy_policy">&lt;a href=\"https://wikimediafoundation.org/wiki/Privacy_policy\"&gt;隐私政策&lt;/a&gt;</string>
   <string name="title_activity_about">关于</string>
-  <string name="menu_feedback">反馈（通过电子邮件）</string>
   <string name="provider_categories">最近使用过的类别</string>
   <string name="waiting_first_sync">等待第一次同步...</string>
   <string name="no_uploads_yet">你尚未上传任何照片。</string>

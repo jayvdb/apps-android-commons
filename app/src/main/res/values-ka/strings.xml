@@ -26,7 +26,6 @@
   <string name="title_activity_settings">კონფიგურაცია</string>
   <string name="menu_about">პროგრამის შესახებ</string>
   <string name="title_activity_about">პროგრამის შესახებ</string>
-  <string name="menu_feedback">გამოხმაურების გაგზავნა (ელ.ფოსტით)</string>
   <string name="menu_retry_upload">გამეორება</string>
   <string name="menu_cancel_upload">გაუქმება</string>
   <string name="menu_download">ჩამოტვირთვა</string>
